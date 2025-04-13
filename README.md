@@ -5,7 +5,8 @@ A new Flutter project.
 
 ## 🎨 System Design
 
-![image](https://github.com/user-attachments/assets/ca7ef791-cffe-43f7-b084-9dfbd626ffcb)
+![Uploading Screenshot 2025-04-13 at 4.46.30 AM.png…]()
+
 
 ## Getting Started
 
