@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+## 🎨 System Design
+
+<img width="1440" alt="Screenshot 2025-04-13 at 4 46 30 AM" src="https://github.com/user-attachments/assets/d0a6e289-ba34-42eb-b4d4-d7a32b1062ab" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
